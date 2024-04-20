@@ -1,0 +1,9 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> -- write in head
+<html lang="eng=Us"> -for website language
+ <meta name="keywords" content="Online, Shopping" /> name of the website and content
+<h2 id="top">Topic</h2>
+<p>Detail……</p>
+<p>Detail……</p>
+<p>Detail……</p>
+<a href="#top">Go to Top</a> is used link bookmarks
+<a href="https://owasp.org/" target="_blank">Link to OWASP web site</a> for open in new tab
